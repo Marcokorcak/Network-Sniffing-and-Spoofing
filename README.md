@@ -38,7 +38,7 @@ up” commands to build and start the containers. Once this was all done I was a
 
 </br>
 
-# Task 1.1A Sniffing Packets
+# Task 1-1A Sniffing Packets
 <img src= "https://user-images.githubusercontent.com/77298953/210651942-7718b574-d8de-4c22-bf7b-8100798050c5.PNG" width=70% height=70%>
 
 The image above shows how the interface id was gotten using the “docker network ls”
@@ -106,7 +106,7 @@ and Raw data.
 
 </br>
 
-# Task 1.1B
+# Task 1-1B
 
 <img src= "https://user-images.githubusercontent.com/77298953/210652377-2fa239a9-e8e4-4a6a-af63-2e671ed8a6d9.PNG" width=70% height=70%>
 
@@ -187,7 +187,7 @@ and see packets only matching the requirements set by the filters.
 </br>
 
 
-# Task 1.2 Spoofing ICMP Packets
+# Task 1-2 Spoofing ICMP Packets
 
 <img src= "https://user-images.githubusercontent.com/77298953/210653372-0e2bf06e-9cb2-414e-93d5-f34d9131e43e.PNG" width=70% height=70%>
 
@@ -233,7 +233,7 @@ up by the sniffer program.
 
 </br>
 
-# Task 1.3 Traceroute
+# Task 1-3 Traceroute
 
 <img src= "https://user-images.githubusercontent.com/77298953/210654036-b2cb9078-6b56-43ce-b1da-2c501a8ea9f0.PNG" width=70% height=70%>
 
@@ -288,7 +288,7 @@ travel through. Once I reached 10 routers, the packet made it to the destination
 
 </br>
 
-# Task 1.4 Sniffing and-then Spoofing
+# Task 1-4 Sniffing and-then Spoofing
 <img src= "https://user-images.githubusercontent.com/77298953/210654931-853504a9-364c-4470-b570-1bb536a28a70.PNG" width=70% height=70%>
 
 The image above shows the code that was in sniffer.py when using the IP address 1.2.3.4

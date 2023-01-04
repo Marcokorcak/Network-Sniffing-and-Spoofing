@@ -123,15 +123,14 @@ looking for TPC packets coming from the IP address of 10.9.0.1 and with a destin
 
 
 
-
-
-Korcak 5
-
 **The image above shows the results when running the sniffer.py file as a root user and**
 
 **looking for packets going to the subnet 128.230.0.0**
 
-**Answer:** In this task the objective was to apply filters to the sniffing program to filter out
+</br>
+
+## Task 1.1B  Explanation
+In this task the objective was to apply filters to the sniffing program to filter out
 
 specific packets being captured. The first task was to capture only ICMP packets and this was
 
@@ -175,13 +174,10 @@ destination IP of 128.230.0.0. The modification of the sniffer program allowed m
 
 and see packets only matching the requirements set by the filters.
 
-**Task 1.2**
 
 
+# Task 1.2
 
-
-
-Korcak 6
 
 **The image above shows the sniffer.py file and the code that was used to spoof ICMP**
 
@@ -194,14 +190,11 @@ Korcak 6
 **The image above shows the output of the ICMP packet captured by wireshark**
 
 
-
-
-
-Korcak 7
-
 **The image above shows the data output by the sniffer program**
 
-**Answer:** In this task, the objective was to spoof IP packets with an arbitrary source IP address. I
+
+## Task 1.2 Explanation
+In this task, the objective was to spoof IP packets with an arbitrary source IP address. I
 
 would spoof ICMP echo request packets and send them to another VM on the network. I used
 
@@ -223,15 +216,11 @@ above shows that the destination IP was 1.2.3.4 and the source IP was 10.0.2.4 w
 
 up by the sniffer program.
 
-**Task 1.3**
+
+# Task 1.3
 
 **The image above shows the code that was added to the sniffer.py file**
 
-
-
-
-
-Korcak 8
 
 **The image above shows the IP address of the last router it passed through**
 
@@ -248,16 +237,14 @@ Korcak 8
 **were specified**
 
 
-
-
-
-Korcak 9
-
 **The image above shows the IP addresses of the last router it passed through when 6 - 10**
 
 **routers were specified**
 
-**Answer:** The objective of this task was to traceroute a packet. The code I wrote in the sniffer.py file
+</br>
+
+## Task 1.3 Explanation
+The objective of this task was to traceroute a packet. The code I wrote in the sniffer.py file
 
 specifies that the destination IP is 8.8.4.4 and the time to live of the packet is set to argv[1]. This means
 
@@ -277,13 +264,9 @@ done manually so after each time the program ran, I increased the number of rout
 
 travel through. Once I reached 10 routers, the packet made it to the destination IP address specified.
 
-**Task 1.4**
+</br>
 
-
-
-
-
-Korcak 10
+# Task 1.4
 
 **The image above shows the code that was in sniffer.py when using the IP address 1.2.3.4**
 
@@ -298,11 +281,6 @@ Korcak 10
 **10.9.0.99**
 
 
-
-
-
-Korcak 11
-
 **The image above shows the response when 10.9.0.99 was pinged**
 
 **The image above shows the code that was in sniffer.py when using the IP address 8.8.8.8**
@@ -311,7 +289,11 @@ Korcak 11
 
 **8.8.8.8**
 
-**Answer:** The objective of this task was to combine what I learned on sniffing and spoofing packets. In
+</br>
+
+## Task 1.4 Explanation
+
+The objective of this task was to combine what I learned on sniffing and spoofing packets. In
 
 order to complete this I needed two machines on the same LAN so I used the VM and the user
 
@@ -332,12 +314,6 @@ the Host A container and then executed the sniffer.py file which captured the or
 spoofed packets. The image above shows that for the original packet the source IP address was
 
 10.9.0.5 and the destination IP was 1.2.3.4 and for the spoofed packet the source IP was 1.2.3.4
-
-
-
-
-
-Korcak 12
 
 and the destination IP was 10.9.0.5. For the next task I used the IP address 10.9.0.99 and put that
 

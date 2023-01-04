@@ -224,30 +224,37 @@ above shows that the destination IP was 1.2.3.4 and the source IP was 10.0.2.4 w
 
 up by the sniffer program.
 
+</br>
 
 # Task 1.3
 
-**The image above shows the code that was added to the sniffer.py file**
+<img src= "https://user-images.githubusercontent.com/77298953/210654036-b2cb9078-6b56-43ce-b1da-2c501a8ea9f0.PNG" width=70% height=70%>
 
+The image above shows the code that was added to the sniffer.py file
 
-**The image above shows the IP address of the last router it passed through**
+<img src= "https://user-images.githubusercontent.com/77298953/210654077-e667d492-6512-4c6f-810f-2750efd70984.PNG" width=70% height=70%>
 
-**The image above shows the IP address of the last router it passed through when 2 routers**
+The image above shows the IP address of the last router it passed through
 
-**were specified**
+<img src= "https://user-images.githubusercontent.com/77298953/210654141-7ce8765c-18b5-450a-8d80-8f484227841b.PNG" width=70% height=70%>
 
-**The image above shows the IP address of the last router it passed through when 3 routers**
+The image above shows the IP address of the last router it passed through when 2 routers
+were specified
 
-**were specified**
+<img src= "https://user-images.githubusercontent.com/77298953/210654200-4c195e69-79a1-40a3-a3f8-a56d97f7b18a.PNG" width=70% height=70%>
 
-**The image above shows the IP address of the last router it passed through when 4 routers**
+The image above shows the IP address of the last router it passed through when 3 routers
+were specified
 
-**were specified**
+<img src= "https://user-images.githubusercontent.com/77298953/210654260-f16aabc8-6d44-4690-8f4b-3160d7a90c0b.PNG" width=70% height=70%>
 
+The image above shows the IP address of the last router it passed through when 4 routers
+were specified
 
-**The image above shows the IP addresses of the last router it passed through when 6 - 10**
+<img src= "https://user-images.githubusercontent.com/77298953/210654338-0c575c39-f1e0-4005-9df7-9c7d8ae1afb2.PNG" width=70% height=70%>
 
-**routers were specified**
+The image above shows the IP addresses of the last router it passed through when 6 - 10
+routers were specified
 
 </br>
 

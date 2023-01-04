@@ -177,19 +177,26 @@ destination IP of 128.230.0.0. The modification of the sniffer program allowed m
 
 and see packets only matching the requirements set by the filters.
 
+</br>
 
 
 # Task 1.2
 
+<img src= "https://user-images.githubusercontent.com/77298953/210653372-0e2bf06e-9cb2-414e-93d5-f34d9131e43e.PNG" width=70% height=70%>
 
 The image above shows the sniffer.py file and the code that was used to spoof ICMP
 packets
 
+<img src= "https://user-images.githubusercontent.com/77298953/210653415-f9e9d6c2-ffd2-4b04-b817-b621b598441b.PNG" width=70% height=70%>
+
 The image above shows the wireshark user interface along with host 1.2.3.4 selected and
 enp0s2 selected
 
+<img src= "https://user-images.githubusercontent.com/77298953/210653513-592f9f64-e515-461f-acef-ac4d19be573b.PNG" width=70% height=70%>
+
 The image above shows the output of the ICMP packet captured by wireshark
 
+<img src= "https://user-images.githubusercontent.com/77298953/210653551-649b7ec0-cd28-42b3-8980-23c30ac71db3.PNG" width=70% height=70%>
 
 The image above shows the data output by the sniffer program
 

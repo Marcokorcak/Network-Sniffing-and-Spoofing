@@ -109,11 +109,11 @@ The image above shows the sniffer.py file when looking for only icmp packets
 The image above shows the results when running the sniffer.py file as a root user and
 looking for icmp packets
 
-<img src= "https://user-images.githubusercontent.com/77298953/210652474-7da9160f-c190-4a86-bd08-4eeb0e5dcbe1.PNG" width=70% height=70%
+<img src= "https://user-images.githubusercontent.com/77298953/210652474-7da9160f-c190-4a86-bd08-4eeb0e5dcbe1.PNG" width=70% height=70%>
 The image above shows the sniffer.py file when looking for only TCP packets from the IP
 address of 10.9.0.1 and a destination port of 23
 
-<img src= "https://user-images.githubusercontent.com/77298953/210652530-06c7f59a-eabf-4369-9fe1-9dad2517842b.PNG" width=70% height=70%
+<img src= "https://user-images.githubusercontent.com/77298953/210652530-06c7f59a-eabf-4369-9fe1-9dad2517842b.PNG" width=70% height=70%>
 The image above shows the results when running the sniffer.py file as a root user and
 looking for TPC packets coming from the IP address of 10.9.0.1 and with a destination port of 23
 
@@ -121,7 +121,7 @@ looking for TPC packets coming from the IP address of 10.9.0.1 and with a destin
 The image above shows the sniffer.py file when looking for packets through the subnet
 128.230.0.0/16
 
-<img src= "https://user-images.githubusercontent.com/77298953/210652630-dcc33409-fdd8-4f32-a1b7-b9e0a29db396.PNG" width=70% height=70%
+<img src= "https://user-images.githubusercontent.com/77298953/210652630-dcc33409-fdd8-4f32-a1b7-b9e0a29db396.PNG" width=70% height=70%>
 The image above shows the results when running the sniffer.py file as a root user and
 looking for packets going to the subnet 128.230.0.0
 

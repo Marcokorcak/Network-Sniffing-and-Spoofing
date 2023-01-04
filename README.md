@@ -14,6 +14,13 @@ an in-depth understanding of the technical aspects of these programs. This lab c
 * Packet spoofing using raw socket and Scapy
 * Manipulating packets using Scapy
 
+## Table of contents
+* [Lab Environment Setup](#Lab-Environment-Setup)
+* [Task 1.1A Sniffing Packets](#Task-1.1A-Sniffing-Packets)
+* [Task 1.1B](#Task-1.1B)
+* [Task 1.2 Spoofing ICMP Packets](#Task-1.2-Spoofing-ICMP-Packets)
+* [Task 1.3 Traceroute](#Task-1.3-Traceroute)
+* [Task 1.4Sniffing and-then Spoofing](#Task-1.4-Sniffing-and-then-Spoofing)
 
 # Lab Environment Setup!
 
@@ -180,7 +187,7 @@ and see packets only matching the requirements set by the filters.
 </br>
 
 
-# Task 1.2
+# Task 1.2 Spoofing ICMP Packets
 
 <img src= "https://user-images.githubusercontent.com/77298953/210653372-0e2bf06e-9cb2-414e-93d5-f34d9131e43e.PNG" width=70% height=70%>
 
@@ -226,7 +233,7 @@ up by the sniffer program.
 
 </br>
 
-# Task 1.3
+# Task 1.3 Traceroute
 
 <img src= "https://user-images.githubusercontent.com/77298953/210654036-b2cb9078-6b56-43ce-b1da-2c501a8ea9f0.PNG" width=70% height=70%>
 
@@ -281,7 +288,7 @@ travel through. Once I reached 10 routers, the packet made it to the destination
 
 </br>
 
-# Task 1.4
+# Task 1.4 Sniffing and-then Spoofing
 <img src= "https://user-images.githubusercontent.com/77298953/210654931-853504a9-364c-4470-b570-1bb536a28a70.PNG" width=70% height=70%>
 
 The image above shows the code that was in sniffer.py when using the IP address 1.2.3.4

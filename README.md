@@ -28,19 +28,16 @@ an IP address of 10.9.0.1. I used the commands “docker-compose build” and th
 
 up” commands to build and start the containers. Once this was all done I was able to start the lab.
 
+</br>
 
+# Task 1.1A Sniffing Packets
+<img src= "https://user-images.githubusercontent.com/77298953/210648459-ed112c25-0af7-4037-9c6a-b0f08ad43206.PNG" width=70% height=70%>
 
-**Task 1.1A**
+The image above shows how the interface id was gotten using the “docker network ls”
 
-**The image above shows how the interface id was gotten using the “docker network ls”**
+command and the “ifconfig” command
 
-**command and the “ifconfig” command**
-
-
-
-
-
-Korcak 2
+</br>
 
 **The image above shows the code that was entered in the sniffer.py file**
 

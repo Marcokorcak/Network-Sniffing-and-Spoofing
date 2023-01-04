@@ -15,8 +15,9 @@ an in-depth understanding of the technical aspects of these programs. This lab c
 * Manipulating packets using Scapy
 
 
-# Lab Environment Setup
-<img src= "https://user-images.githubusercontent.com/77298953/210648132-35800618-9684-4a3d-8d54-80bf9ea72f5f.PNG" width=70% height=70%>
+# Lab Environment Setup!
+
+<img src= "https://user-images.githubusercontent.com/77298953/210651908-05f23a8d-d696-4c99-9f10-44c7b3d98332.PNG" width=70% height=70%>
 
 For this lab the only setup that was needed was to set up the docker containers. There were three
 
@@ -31,8 +32,7 @@ up” commands to build and start the containers. Once this was all done I was a
 </br>
 
 # Task 1.1A Sniffing Packets
-
-<img src= "https://user-images.githubusercontent.com/77298953/210649222-c07d597e-4f8c-4d4b-aa78-bf1e095e8b64.PNG" width=70% height=70%>
+<img src= "https://user-images.githubusercontent.com/77298953/210651942-7718b574-d8de-4c22-bf7b-8100798050c5.PNG" width=70% height=70%>
 
 The image above shows how the interface id was gotten using the “docker network ls”
 
@@ -40,24 +40,23 @@ command and the “ifconfig” command
 
 </br>
 
-<img src= "https://user-images.githubusercontent.com/77298953/210648459-ed112c25-0af7-4037-9c6a-b0f08ad43206.PNG" width=70% height=70%>
+<img src= "https://user-images.githubusercontent.com/77298953/210651979-4e743eb5-74d5-4729-9875-2f03e2d0096a.PNG" width=70% height=70%>
 
 The image above shows the code that was entered in the sniffer.py file
 
 </br>
 
-<img src= "https://user-images.githubusercontent.com/77298953/210649337-4b59265d-d745-4400-bac1-433a8dc94026.PNG" width=70% height=70%>
+<img src= "https://user-images.githubusercontent.com/77298953/210652023-fe589f68-8f6d-4765-8525-e2b6b2bf2b3c.PNG" width=70% height=70%>
 
 The image above shows pinging the IP 10.9.0.6 in the host A container as root
 
-</br>
-
-<img src= "https://user-images.githubusercontent.com/77298953/210649478-6ab3f5a5-6bb2-4edc-9710-de68ee3b1cd2.PNG" width=70% height=70%>
+<img src= "https://user-images.githubusercontent.com/77298953/210652054-0cbf59ad-4088-402d-8c54-9bb49d78d34c.PNG" width=70% height=70%>
 
 The image above shows the results when running the sniffer file not as a root user
 
 </br>
-<img src= "https://user-images.githubusercontent.com/77298953/210649574-b0e47bbd-23b3-48dc-9df2-a1567bf2164a.PNG" width=70% height=70%>
+
+<img src= "https://user-images.githubusercontent.com/77298953/210652089-fd8e444d-dd36-4677-b5e2-2f244c059d19.PNG" width=70% height=70%>
 
 The image above shows the results when running the sniffer.py file as a root user
 

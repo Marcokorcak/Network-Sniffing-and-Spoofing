@@ -282,27 +282,36 @@ travel through. Once I reached 10 routers, the packet made it to the destination
 </br>
 
 # Task 1.4
+<img src= "https://user-images.githubusercontent.com/77298953/210654931-853504a9-364c-4470-b570-1bb536a28a70.PNG" width=70% height=70%>
 
-**The image above shows the code that was in sniffer.py when using the IP address 1.2.3.4**
+The image above shows the code that was in sniffer.py when using the IP address 1.2.3.4
 
-**The image above shows the original and spoofed packets captured by the sniffer.py file for IP address**
+<img src= "https://user-images.githubusercontent.com/77298953/210654975-4d93ee33-5de8-473c-aa5d-2fb92f88bb62.PNG" width=70% height=70%>
 
-**1.2.3.4**
+The image above shows the original and spoofed packets captured by the sniffer.py file for IP address
+1.2.3.4
 
-**The image above shows the code that was in sniffer.py when using the IP address 10.9.0.99**
+<img src= "https://user-images.githubusercontent.com/77298953/210655031-d7dcd021-da09-4f48-9d54-dab21a82a72e.PNG" width=70% height=70%>
 
-**The image above shows the original and spoofed packets captured by the sniffer.py file for IP address**
+The image above shows the code that was in sniffer.py when using the IP address 10.9.0.99
 
-**10.9.0.99**
+<img src= "https://user-images.githubusercontent.com/77298953/210655097-0f8a6123-8714-4992-847d-e69f4365bbb3.PNG" width=70% height=70%>
 
+The image above shows the original and spoofed packets captured by the sniffer.py file for IP address
+10.9.0.99
 
-**The image above shows the response when 10.9.0.99 was pinged**
+<img src= "https://user-images.githubusercontent.com/77298953/210655136-5883df3d-0a3e-499a-be13-ee72907f3e29.PNG" width=70% height=70%>
 
-**The image above shows the code that was in sniffer.py when using the IP address 8.8.8.8**
+The image above shows the response when 10.9.0.99 was pinged
 
-**The image above shows the original and spoofed packets captured by the sniffer.py file for IP address**
+<img src= "https://user-images.githubusercontent.com/77298953/210655186-21e61ce7-eb26-4b8b-96f1-951d1f390e41.PNG" width=70% height=70%>
 
-**8.8.8.8**
+The image above shows the code that was in sniffer.py when using the IP address 8.8.8.8
+
+<img src= "https://user-images.githubusercontent.com/77298953/210655225-f834ec0b-0e87-4fde-b194-bb6f3c9edcc1.PNG" width=70% height=70%>
+
+The image above shows the original and spoofed packets captured by the sniffer.py file for IP address
+8.8.8.8
 
 </br>
 

@@ -117,11 +117,11 @@ address of 10.9.0.1 and a destination port of 23
 The image above shows the results when running the sniffer.py file as a root user and
 looking for TPC packets coming from the IP address of 10.9.0.1 and with a destination port of 23
 
-<img src= "https://user-images.githubusercontent.com/77298953/210652580-df393376-2701-4fbf-b23d-a65c9c7d5b38.PNG" width=70% height=70%
+<img src= "https://user-images.githubusercontent.com/77298953/210652580-df393376-2701-4fbf-b23d-a65c9c7d5b38.PNG" width=70% height=70%>
 The image above shows the sniffer.py file when looking for packets through the subnet
 128.230.0.0/16
 
-<img src= "https://user-images.githubusercontent.com/77298953/210652630-dcc33409-fdd8-4f32-a1b7-b9e0a29db396.PNG" width=70% height=70%>
+<img src= "https://user-images.githubusercontent.com/77298953/210652973-8ef3f53c-f421-4d82-85c1-e605543e6c92.PNG" width=70% height=70%>
 The image above shows the results when running the sniffer.py file as a root user and
 looking for packets going to the subnet 128.230.0.0
 

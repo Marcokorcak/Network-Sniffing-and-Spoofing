@@ -100,31 +100,30 @@ and Raw data.
 </br>
 
 # Task 1.1B
-<img src= "https://user-images.githubusercontent.com/77298953/210650467-160bb265-e302-4df7-9449-e804b8861a6a.PNG" width=70% height=70%>
+
+<img src= "https://user-images.githubusercontent.com/77298953/210652377-2fa239a9-e8e4-4a6a-af63-2e671ed8a6d9.PNG" width=70% height=70%>
 
 The image above shows the sniffer.py file when looking for only icmp packets
 
-<img src= "https://user-images.githubusercontent.com/77298953/210650558-bcb1a0c3-e09b-4a77-acbc-76d6e03ab895.PNG" width=70% height=70%>
+<img src= "https://user-images.githubusercontent.com/77298953/210652432-7568d53d-a568-4345-960b-dc07d7d7f5c9.PNG" width=70% height=70%>
 The image above shows the results when running the sniffer.py file as a root user and
 looking for icmp packets
 
-<img src= "https://user-images.githubusercontent.com/77298953/210650704-e7324c2e-bb0a-408e-987c-05b1e93a2d95.PNG" width=70% height=70%
+<img src= "https://user-images.githubusercontent.com/77298953/210652474-7da9160f-c190-4a86-bd08-4eeb0e5dcbe1.PNG" width=70% height=70%
 The image above shows the sniffer.py file when looking for only TCP packets from the IP
 address of 10.9.0.1 and a destination port of 23
-     
-<img src= "https://user-images.githubusercontent.com/77298953/210650884-70725a90-abd7-4122-8899-fb50f11e443c.PNG" width=70% height=70%
+
+<img src= "https://user-images.githubusercontent.com/77298953/210652530-06c7f59a-eabf-4369-9fe1-9dad2517842b.PNG" width=70% height=70%
 The image above shows the results when running the sniffer.py file as a root user and
 looking for TPC packets coming from the IP address of 10.9.0.1 and with a destination port of 23
 
-
-**The image above shows the sniffer.py file when looking for packets through the subnet
+<img src= "https://user-images.githubusercontent.com/77298953/210652580-df393376-2701-4fbf-b23d-a65c9c7d5b38.PNG" width=70% height=70%
+The image above shows the sniffer.py file when looking for packets through the subnet
 128.230.0.0/16
 
-
-
-**The image above shows the results when running the sniffer.py file as a root user and**
-
-**looking for packets going to the subnet 128.230.0.0**
+<img src= "https://user-images.githubusercontent.com/77298953/210652630-dcc33409-fdd8-4f32-a1b7-b9e0a29db396.PNG" width=70% height=70%
+The image above shows the results when running the sniffer.py file as a root user and
+looking for packets going to the subnet 128.230.0.0
 
 </br>
 

@@ -16,8 +16,8 @@ an in-depth understanding of the technical aspects of these programs. This lab c
 
 ## Table of contents
 * [Lab Environment Setup](#Lab-Environment-Setup)
-* [Task 1.1A Sniffing Packets](#Task-1.1A-Sniffing-Packets)
-* [Task 1.1B](#Task-1-1B)
+* [Task 1.1A Sniffing Packets](#Task-1A-Sniffing-Packets)
+* [Task 1.1B](#Task-1B)
 * [Task 1.2 Spoofing ICMP Packets](#Task-1.2-Spoofing-ICMP-Packets)
 * [Task 1.3 Traceroute](#Task-1.3-Traceroute)
 * [Task 1.4Sniffing and-then Spoofing](#Task-1.4-Sniffing-and-then-Spoofing)

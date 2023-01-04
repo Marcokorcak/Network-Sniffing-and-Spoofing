@@ -15,10 +15,8 @@ an in-depth understanding of the technical aspects of these programs. This lab c
 * Manipulating packets using Scapy
 
 
-
-Network Sniffing and Spoofing
-
-**Lab Environment Setup**
+# Lab Environment Setup
+<img src= "https://user-images.githubusercontent.com/77298953/210648132-35800618-9684-4a3d-8d54-80bf9ea72f5f.PNG" width=70% height=70%>
 
 For this lab the only setup that was needed was to set up the docker containers. There were three
 
@@ -29,6 +27,8 @@ container has an IP of 10.9.0.6 while hostA has an IP address if 10.9.0.5 and th
 an IP address of 10.9.0.1. I used the commands “docker-compose build” and then the “docker-compose
 
 up” commands to build and start the containers. Once this was all done I was able to start the lab.
+
+
 
 **Task 1.1A**
 

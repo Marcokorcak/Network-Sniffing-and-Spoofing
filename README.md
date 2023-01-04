@@ -31,7 +31,8 @@ up” commands to build and start the containers. Once this was all done I was a
 </br>
 
 # Task 1.1A Sniffing Packets
-<img src= "https://user-images.githubusercontent.com/77298953/210648459-ed112c25-0af7-4037-9c6a-b0f08ad43206.PNG" width=70% height=70%>
+
+<img src= "https://user-images.githubusercontent.com/77298953/210649222-c07d597e-4f8c-4d4b-aa78-bf1e095e8b64.PNG" width=70% height=70%>
 
 The image above shows how the interface id was gotten using the “docker network ls”
 
@@ -39,21 +40,29 @@ command and the “ifconfig” command
 
 </br>
 
-**The image above shows the code that was entered in the sniffer.py file**
+<img src= "https://user-images.githubusercontent.com/77298953/210648459-ed112c25-0af7-4037-9c6a-b0f08ad43206.PNG" width=70% height=70%>
 
-**The image above shows pinging the IP 10.9.0.6 in the host A container as root**
+The image above shows the code that was entered in the sniffer.py file
 
-**The image above shows the results when running the sniffer file not as a root user**
+</br>
 
-**The image above shows the results when running the sniffer.py file as a root user**
+<img src= "https://user-images.githubusercontent.com/77298953/210649337-4b59265d-d745-4400-bac1-433a8dc94026.PNG" width=70% height=70%>
 
+The image above shows pinging the IP 10.9.0.6 in the host A container as root
 
+</br>
 
+<img src= "https://user-images.githubusercontent.com/77298953/210649478-6ab3f5a5-6bb2-4edc-9710-de68ee3b1cd2.PNG" width=70% height=70%>
 
+The image above shows the results when running the sniffer file not as a root user
 
-Korcak 3
+</br>
+<img src= "https://user-images.githubusercontent.com/77298953/210649574-b0e47bbd-23b3-48dc-9df2-a1567bf2164a.PNG" width=70% height=70%>
 
-**Answer:** In this task, 1.1A, the objective was to create a packet sniffing program and examine
+The image above shows the results when running the sniffer.py file as a root user
+
+## Task 1.1A Explanation
+In this task, 1.1A, the objective was to create a packet sniffing program and examine
 
 the difference between running this program as a regular user and root user. To start off, since it
 
@@ -89,7 +98,9 @@ such as the src IP and the destination IP along with information related to the 
 
 and Raw data.
 
-**Task 1.1B**
+</br>
+
+# Task 1.1B
 
 **The image above shows the sniffer.py file when looking for only icmp packets**
 

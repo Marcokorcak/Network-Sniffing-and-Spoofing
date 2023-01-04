@@ -106,22 +106,27 @@ and Raw data.
 The image above shows the sniffer.py file when looking for only icmp packets
 
 <img src= "https://user-images.githubusercontent.com/77298953/210652432-7568d53d-a568-4345-960b-dc07d7d7f5c9.PNG" width=70% height=70%>
+
 The image above shows the results when running the sniffer.py file as a root user and
 looking for icmp packets
 
 <img src= "https://user-images.githubusercontent.com/77298953/210652474-7da9160f-c190-4a86-bd08-4eeb0e5dcbe1.PNG" width=70% height=70%>
+
 The image above shows the sniffer.py file when looking for only TCP packets from the IP
 address of 10.9.0.1 and a destination port of 23
 
 <img src= "https://user-images.githubusercontent.com/77298953/210652530-06c7f59a-eabf-4369-9fe1-9dad2517842b.PNG" width=70% height=70%>
+
 The image above shows the results when running the sniffer.py file as a root user and
 looking for TPC packets coming from the IP address of 10.9.0.1 and with a destination port of 23
 
 <img src= "https://user-images.githubusercontent.com/77298953/210652580-df393376-2701-4fbf-b23d-a65c9c7d5b38.PNG" width=70% height=70%>
+
 The image above shows the sniffer.py file when looking for packets through the subnet
 128.230.0.0/16
 
 <img src= "https://user-images.githubusercontent.com/77298953/210652973-8ef3f53c-f421-4d82-85c1-e605543e6c92.PNG" width=70% height=70%>
+
 The image above shows the results when running the sniffer.py file as a root user and
 looking for packets going to the subnet 128.230.0.0
 
@@ -177,18 +182,16 @@ and see packets only matching the requirements set by the filters.
 # Task 1.2
 
 
-**The image above shows the sniffer.py file and the code that was used to spoof ICMP**
+The image above shows the sniffer.py file and the code that was used to spoof ICMP
+packets
 
-**packets**
+The image above shows the wireshark user interface along with host 1.2.3.4 selected and
+enp0s2 selected
 
-**The image above shows the wireshark user interface along with host 1.2.3.4 selected and**
-
-**enp0s2 selected**
-
-**The image above shows the output of the ICMP packet captured by wireshark**
+The image above shows the output of the ICMP packet captured by wireshark
 
 
-**The image above shows the data output by the sniffer program**
+The image above shows the data output by the sniffer program
 
 
 ## Task 1.2 Explanation
